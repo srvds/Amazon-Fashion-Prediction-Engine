@@ -4,7 +4,8 @@
 ## Overview
 This repository contains a specialized data processing and analysis pipeline designed to extract insights from e-commerce datasets. The primary focus of this project is to demonstrate **large-scale data cleaning, feature engineering, and predictive modeling** within the fashion retail sector.
 ### ["Click here to view the full, rendered project report."](https://github.com/srvds/Amazon-Fashion-Prediction-Engine/blob/master/Amazon_fashion_recom_analysis.ipynb)
-![Product Similarity matrix](plots/Screenshot 2026-07-18 004330.png)
+## Product Similarity matrix
+<img src="https://github.com/srvds/Amazon-Fashion-Prediction-Engine/blob/master/plots/Screenshot%202026-07-18%20004330.png" width="700">
 ## Business Context
 As part of my data processing services, this engine was developed to showcase the methodology for converting raw consumer behavioral data into structured, actionable intelligence. It highlights the capability to:
 *   **Process and Normalize** large, unstructured e-commerce datasets.
